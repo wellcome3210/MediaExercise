@@ -1,1 +1,1 @@
-include ':viewdraw'
+include ':viewdraw', ':audioexercise'
