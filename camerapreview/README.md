@@ -18,7 +18,7 @@ Android 5.0（API级别21）引入Camera2 API，Camera API随之被标记为废�
     4. 支持更多格式的预览数据
     5. 支持高速连拍
 
-![image](https://github.com/wellcome3210/MediaExercise/image/camerapreview/camera_architecture.jpg)
+![image](https://github.com/wellcome3210/MediaExercise/tree/master/image/camerapreview/camera_architecture.jpg)
 
 更多信息参考[AOSP-开发-相机](https://source.android.com/devices/camera)
 
@@ -38,7 +38,7 @@ Android 5.0（API级别21）引入Camera2 API，Camera API随之被标记为废�
 
 简单类图示意
 
-![image](https://github.com/wellcome3210/MediaExercise/image/camerapreview/camera2.png)
+![image](https://github.com/wellcome3210/MediaExercise/tree/master/image/camerapreview/camera2.png)
 
 ---
 ### 2.2 Camera API使用
@@ -174,7 +174,7 @@ X\:Y\:Z描述对4*2矩阵的采样
 X:Y指第一行，Y与UV采样比
 X:Z指第二行，Y与UV采样比
 
-![image](https://github.com/wellcome3210/MediaExercise/image/camerapreview/YUV.jpg)
+![image](https://github.com/wellcome3210/MediaExercise/tree/master/image/camerapreview/YUV.jpg)
 
 ### 4.2 存储格式
 
