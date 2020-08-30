@@ -1,4 +1,4 @@
-package com.wellcome.audioexercise;
+package com.wellcome.camerapreview;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.wellcome.audioexercice", appContext.getPackageName());
+        assertEquals("com.wellcome.camerapreview", appContext.getPackageName());
     }
 }
